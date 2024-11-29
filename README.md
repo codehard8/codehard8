@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hello, I'm Sohail Ahmad!  
+### 🚀 AI Enthusiast | Digital Marketer | Problem Solver  
 
-<!--
-**codehard8/codehard8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I specialize in solving business challenges by merging my expertise in digital marketing with AI and data analysis.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills & Tools:
+- **Digital Marketing:**  
+  SEO, Facebook Ads, Google Ads, Campaign Optimization  
+- **Programming & Data Analysis:**  
+  Python, N-grams Analysis, Pandas  
+- **Visualization & Tools:**  
+  Matplotlib, Streamlit
+
+---
+
+## 🌱 Currently Learning:
+- Advanced visualization techniques with **Matplotlib**.  
+- Building interactive apps using **Streamlit**.  
+- Applying AI techniques to optimize ad targeting and audience segmentation.
+
+## 💬 Let’s Connect:
+- [LinkedIn](https://www.linkedin.com/in/sohail-ahmad-akhunzada/)   
+- 📧 Email: p230053@pwr.nu.edu.pk 
+
+---
+
+🌟 **Fun Fact:** "I code, I mistake, I learn."  
