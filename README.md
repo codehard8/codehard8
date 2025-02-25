@@ -7,16 +7,16 @@ I specialize in solving business challenges by merging my expertise in digital m
 
 ## 🔧 Skills & Tools:
 - **Digital Marketing:**  
-  SEO, Facebook Ads, Google Ads, Campaign Optimization  
+  SEO, Campaign Optimization, Facebook Ads, Google Ads
 - **Programming & Data Analysis:**  
-  Python, N-grams Analysis, Pandas  
+  Python, Pandas, NumPy, BeutifulSoup, Selenium.
 - **Visualization & Tools:**  
-  Matplotlib, Streamlit
+  Matplotlib, Streamlit, Seaborn, Networkx
 
 ---
 
 ## 🌱 Currently Learning:
-- Advanced visualization techniques with **Matplotlib**.  
+- Advanced Searching and optimization techniques for AI.
 - Building interactive apps using **Streamlit**.  
 - Applying AI techniques to optimize ad targeting and audience segmentation.
 
