@@ -12,6 +12,8 @@ I specialize in solving business challenges by merging my expertise in digital m
   Python, Pandas, NumPy, BeutifulSoup, Selenium.
 - **Visualization & Tools:**  
   Matplotlib, Streamlit, Seaborn, Networkx
+- **Project Management:**
+- Jira, Agile & Scrum
 
 ---
 
