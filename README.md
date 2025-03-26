@@ -14,6 +14,8 @@ I specialize in solving business challenges by merging my expertise in digital m
   Matplotlib, Streamlit, Seaborn, Networkx
 - **Project Management:**
 - Jira, Agile & Scrum
+- **Version Control:**
+- Git, Github
 
 ---
 
